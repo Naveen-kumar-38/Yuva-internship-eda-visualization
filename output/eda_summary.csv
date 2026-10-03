@@ -1,0 +1,13 @@
+Metric,Value
+Number of Rows,205
+Number of Columns,26
+Mean Price,12713.3
+Median Price,10295.0
+Minimum Price,5118.0
+Maximum Price,29568.0
+Most Common Make,toyota
+Most Common Body Style,sedan
+Most Common Fuel Type,gas
+Average Horsepower,102.89
+Average City MPG,25.2
+Average Highway MPG,30.68
